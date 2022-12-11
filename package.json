@@ -5,6 +5,7 @@
   "license": "MIT",
   "private": true,
   "devDependencies": {
+    "@crxjs/vite-plugin": "^1.0.14",
     "prettier": "^2.8.1",
     "vite": "^3.2.5"
   }
