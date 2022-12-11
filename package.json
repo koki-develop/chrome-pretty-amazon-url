@@ -4,6 +4,9 @@
   "author": "koki-develop <kou.pg.0131@gmail.com>",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "build": "tsc && vite build"
+  },
   "devDependencies": {
     "@crxjs/vite-plugin": "^1.0.14",
     "prettier": "^2.8.1",
